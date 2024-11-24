@@ -185,3 +185,51 @@ Program selesai.
 
 # Flowchart 
 ![flowchart](Diagram_Dict.drawio.png)
+
+# Penjelasan
+Dalam codingan di atas kita membuat codingan daftar mahsiswa menggunkan Dictonary. Dalam codingan di atas terdapat beberapa fungsi yaitu:
+- Fungsi hitung_nilai_akhir
+    ```
+    def hitung_nilai_akhir(tugas, uts, uas):
+    return (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
+    ```
+    Fungsi : Menghitung nilai akhir mahasiswa
+  
+- Fungsi tambah_data    
+    ```
+    def tambah_data(data):
+        ...
+    ```
+    
+    Tujuan: Menambahkan data mahasiswa ke dalam dictionary data.
+
+- Fungsi ubah_data
+    ```
+    def ubah_data(data):
+        ...
+    ```
+    
+    Tujuan: Mengubah data mahasiswa yang sudah ada.
+
+- Fungsi hapus_data
+    ```
+    def hapus_data(data):
+        ...
+    ```
+    Tujuan: Menghapus data mahasiswa berdasarkan nim.
+
+- Fungsi tampilkan_data
+    ```
+    def tampilkan_data(data):
+        ...
+    ```
+    Tujuan: Menampilkan semua data mahasiswa yang ada.
+
+- Fungsi cari_data
+    ```
+    def cari_data(data):
+        ...
+    ```
+    Tujuan: Mencari data mahasiswa berdasarkan nama.
+
+berikut adalah penjelasan dari fungsi-fungsi di atas.
