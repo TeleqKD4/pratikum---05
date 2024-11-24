@@ -184,4 +184,4 @@ Program selesai.
 ```
 
 # Flowchart 
-![flowchart](
+![flowchart](Diagram_Dict.drawio.png)
